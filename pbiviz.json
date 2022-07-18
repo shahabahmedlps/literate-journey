@@ -1,0 +1,25 @@
+{
+    "visual": {
+        "name": "barChart",
+        "displayName": "Bar Chart",
+        "guid": "barChartFB8AD568998F44839CEA0521EABDFBE6",
+        "visualClassName": "BarChart",
+        "version": "1.0.0",
+        "description": "A Bar Chart Tutorial",
+        "supportUrl": "https://powerbi.microsoft.com/en-us/support/",
+        "gitHubUrl": ""
+    },
+    "apiVersion": "3.8.0",
+    "author": {
+        "name": "Shahab Ahmed",
+        "email": "shahab.ahmed@logicps.com"
+    },
+    "assets": {
+        "icon": "assets/icon.png"
+    },
+    "externalJS": null,
+    "style": "style/visual.less",
+    "capabilities": "capabilities.json",
+    "dependencies": null,
+    "stringResources": []
+}
